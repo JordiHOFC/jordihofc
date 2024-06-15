@@ -14,3 +14,4 @@ My name is Jordi Henrique Marques da Silva. I work as a Desenvolvedor Back-End a
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=jordihofc&count_private=true&show_icons=true)
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=jordihofc&hide_border=true)
+
