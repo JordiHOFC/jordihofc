@@ -7,12 +7,12 @@ I love studying and talking about Distributed Systems, Automated Testing, RBDMS 
 On my profile you will find content on the topics mentioned above and Race Conditions, Cache and Others.
 
 
-## Talks
+## Palestras / Talks
 
 1. [Race conditions em Microsserviços: um problema em arquiteturas distribuídas | 🚀 Zup Tech Hour⌚](https://www.youtube.com/live/80I5zv1sDHo?si=Jx59T91yWjGVyldo)
 2. [Turbinando seus Microsserviços com Cache Distribuído](https://www.youtube.com/watch?v=8K1tegXrDl4&list=PLC_87WSPY8_CvhQlt-XwfMr3OxMq4HMe0&index=6&t=1s)
 
-## Articles 
+## Artigos / Articles 
 
 1. [3 dicas para uso eficiente de JPA/Hibernate](https://dev.to/jordihofc/3-dicas-para-uso-eficiente-de-jpahibernate-42f9)
 2. [Criando Controllers seguros do Mass Assignment Cheat Sheet](https://dev.to/jordihofc/criando-controllers-seguros-do-mass-assignment-cheat-sheet-5gmf)
