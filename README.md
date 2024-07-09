@@ -3,7 +3,7 @@ Olá, Seja Bem Vindo ! Meu nome é Jordi Henrique Marques da Silva, e trabalho c
 
 Hello, Welcome! My name is Jordi Henrique Marques da Silva. I work as Software Engennier at Zup Innovation.
 
-I love studying and talking about Distributed Systems, Automated Testing, RBDMS and Code Quality. I currently work with Java and Kotlin languages, along with the Spring Boot ecosystem frameworks and AWS Web Services as a cloud provider.
+I love studying and talking about Distributed Systems, Automated Testing, RBDMS and Code Quality. I currently work with Java and Kotlin languages, along with the Spring Boot ecosystem frameworks and Amazon Web Services as a cloud provider.
 On my profile you will find content on the topics mentioned above and Race Conditions, Cache and Others.
 
 
