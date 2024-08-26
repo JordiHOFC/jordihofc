@@ -1,7 +1,7 @@
-Olá, Seja Bem Vindo ! Meu nome é Jordi Henrique Marques da Silva, e trabalho como Engenheiro de Software na Zup Innovation. Eu amo estudar e falar sobre os topicos referentes a Sistemas Distribuidos, Testes Automatizados, Banco de dados relacionais e Qualidade e Design de Codigo. Atualmente estou trabalhando com as linguagens Java e Kotlin, e me apoiando no Ecossistema Spring de frameworks e Amazon Web Services (AWS) como provedor de cloud. Aqui em meu perfil você irá encontrar assuntos sobre os topicos ditos acima, e topicos como Concorência e Paralelismo, Cache Distribuido e Outros.
+Olá, Seja Bem Vindo ! Meu nome é Jordi Henrique Marques da Silva, e trabalho como Engenheiro de Software na Kiwify . Eu amo estudar e falar sobre os topicos referentes a Sistemas Distribuidos, Testes Automatizados, Banco de dados relacionais e Qualidade e Design de Codigo. Atualmente estou trabalhando com as linguagens Java e Kotlin, e me apoiando no Ecossistema Spring de frameworks e Amazon Web Services (AWS) como provedor de cloud. Aqui em meu perfil você irá encontrar assuntos sobre os topicos ditos acima, e topicos como Concorência e Paralelismo, Cache Distribuido e Outros.
 
 
-Hello, Welcome! My name is Jordi Henrique Marques da Silva. I work as Software Engennier at Zup Innovation.
+Hello, Welcome! My name is Jordi Henrique Marques da Silva. I work as Software Engennier at Kiwify.
 
 I love studying and talking about Distributed Systems, Automated Testing, RBDMS and Code Quality. I currently work with Java and Kotlin languages, along with the Spring Boot ecosystem frameworks and Amazon Web Services as a cloud provider.
 On my profile you will find content on the topics mentioned above and Race Conditions, Cache and Others.
